@@ -9,3 +9,6 @@ Notepad++ v6.8.6 bug-fixes and enhancements:
 4.  Fix possible file corruption during macro playback.
 5.  Fix wrong EOL mode for opening/reloading big files.
 6.  Fix loading 3 bytes file error due to bad encoding detection (UTF16 w/o BOM).
+
+
+555
